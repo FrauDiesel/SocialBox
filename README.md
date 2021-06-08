@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  SocialBox
 SocialBox é uma estrutura de ataque de força bruta [Facebook, Gmail, Instagram, Twitter], codificado por Belahsan Ouerghi
 #  Instalação
@@ -32,6 +31,3 @@ $ ./SocialBox.sh
 * instagram: thelinuxchoice
 * Twitter: thelinuxchoice
 * SocialBox: Belahsan Ouerghi
-=======
-# SocialBox
->>>>>>> parent of 5d38954 (Update README.md)
