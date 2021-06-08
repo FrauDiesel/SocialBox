@@ -2,19 +2,19 @@
 SocialBox é uma estrutura de ataque de força bruta [Facebook, Gmail, Instagram, Twitter], codificado por Belahsan Ouerghi
 #  Instalação
 
-$ sudo apt-get install git
+sudo apt-get install git
 
-$ git clone https://github.com/TunisianEagles/SocialBox.git
+git clone https://github.com/TunisianEagles/SocialBox.git
 
-$ cd SocialBox
+cd SocialBox
 
-$ chmod + x SocialBox.sh
+chmod + x SocialBox.sh
 
-$ chmod + x install-sb.sh
+chmod + x install-sb.sh
 
-$ ./install-sb.sh
+./install-sb.sh
 
-$ ./SocialBox.sh
+./SocialBox.sh
 
 
 #  Capturas de tela:
